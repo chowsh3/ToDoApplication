@@ -10,6 +10,11 @@ h1 {
     font-weight: 900;
 
 }
+.enter-text{
+  margin-top: 20px;;
+}
+
+
 
 .add-button{
   display: flex;
