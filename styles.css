@@ -2,6 +2,7 @@
 body {
     background-color:#ffffff;
     font-family: "Montserrat";
+ 
    
 }
 
@@ -10,11 +11,13 @@ h1 {
     font-weight: 900;
 
 }
-.enter-text{
-  margin-top: 20px;;
+
+
+
+.container-fluid{
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
-
-
 
 .add-button{
   display: flex;
@@ -23,6 +26,9 @@ h1 {
   position: sticky;
   bottom: 0;
 }
+
+
+
 
 
 
